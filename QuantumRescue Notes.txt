@@ -1,6 +1,13 @@
 https://github.com/AnsariRpa/QuantumRescue
 
+streamlit run app.py
 
 .\.venv\Scripts\Activate.ps1
 
 
+git init
+git add .
+git commit -m "Initial QuantumRescue project structure"
+git branch -M main
+git remote add origin https://github.com/AnsariRpa/QuantumRescue
+git push -u origin main

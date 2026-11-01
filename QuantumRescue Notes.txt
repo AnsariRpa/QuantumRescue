@@ -1,0 +1,6 @@
+https://github.com/AnsariRpa/QuantumRescue
+
+
+.\.venv\Scripts\Activate.ps1
+
+
